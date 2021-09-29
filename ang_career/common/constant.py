@@ -1,0 +1,7 @@
+ERROR = "Error"
+MESSAGE = "Message"
+RECORD_CREATE_SUCCESSFULLY = "Record created successfully."
+YOU_HAVE_ALREADY_APPLIED_FOR_THIS_POSITION = "You have already applied for this position"
+JOB_DOES_NOT_EXISTS = "Job id {} does not exists"
+THANKYOU_FOR_APPLYING_WE_WILL_GET_BACK_TO_YOU_SOON = "Thankyou for Applying! We will get back to you soon!"
+INVALID_DATA = "Invalid_data"
